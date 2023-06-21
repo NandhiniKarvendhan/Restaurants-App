@@ -1,5 +1,7 @@
 # Restaurants
 
+This is a app used to order food online with listed restaurants.
+
 ## How to use
 
 1. Download or clone the repository.
