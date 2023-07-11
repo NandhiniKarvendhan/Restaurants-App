@@ -10,6 +10,10 @@ This is a app used to order food online with listed restaurants.
 4. Move to backend folder and run npm i in the terminal.
 5. Run npm run start to run strapi in the terminal.
 
+## Screenshot
+
+![](./public/restaurant-app.png)
+
 ## LICENSE
 
 MIT License
